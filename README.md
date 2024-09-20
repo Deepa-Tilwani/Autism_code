@@ -1,2 +1,1 @@
-# Autism_code
-Final code for the paper WCCI IJCNN 2022
+Tilwani, D., O’Reilly, C., Bradshaw, J., Sheth A. P., Interpretable Machine Learning for Predicting the Likelihood of Autism from Infant ECG Recordings, SCAND Research Symposium, Columbia, SC, March 3rd, 2023.
